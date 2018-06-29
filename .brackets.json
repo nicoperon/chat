@@ -1,9 +1,0 @@
-{
-    "jscodehints.detectedExclusions": [
-        "C:/Users/Nicolas/Desktop/COURS/NodeJSCHAT/socket.io-chat-master/node_modules/express/lib/view.js",
-        "C:/Users/Nicolas/Desktop/COURS/NodeJSCHAT/socket.io-chat-master/node_modules/has-binary/index.js",
-        "C:/Users/Nicolas/Desktop/COURS/NodeJSCHAT/chat2/node_modules/fresh/index.js",
-        "C:/Users/Nicolas/Desktop/COURS/NodeJSCHAT/chat2/node_modules/has-binary/index.js",
-        "C:/Users/Nicolas/Desktop/COURS/NodeJSCHAT/chat2/node_modules/has-binary/test.js"
-    ]
-}
